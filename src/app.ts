@@ -32,7 +32,7 @@
 // Publicas
 
 
-// ! Referencia a la función factory y uso
+// ! Referencia a la función factory y uso js
 // const makePerson = buildMakePerson({ getUUID, getAge });
 
 // const obj = { name: 'John', birthdate: '1985-10-21' };
